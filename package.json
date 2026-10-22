@@ -1,0 +1,9 @@
+{
+  "name": "pixel-folks",
+  "version": "1.0.0",
+  "description": "16x16 pixel-art engineer characters for React / SVG / canvas. Zero dependencies.",
+  "license": "MIT",
+  "author": "AKIMA Inc.",
+  "repository": "github:masamune0625/pixel-folks",
+  "keywords": ["pixel-art", "sprites", "react", "svg", "avatar"]
+}
